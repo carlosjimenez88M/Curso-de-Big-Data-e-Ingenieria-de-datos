@@ -3,8 +3,8 @@
 
 Instructores : 
 
-* Fabian Osorio 
-   + Rol: Ingeniero de Datos y Big Data Developer
+* [Fabian Osorio](http://linkedin.com/in/fabiandos) 
+   + Rol:  Data Architect
    + Mail :fabianrmdos@gmail.com
    
 * Enrique Rendón 
@@ -37,11 +37,11 @@ En este curso exploraremos como es el proceso de construcción de sistemas de in
 
 # Requerimientos para la clase 
 
-* [Python 3.8](https://www.python.org/downloads/) : Software que se usa para Ingeniería de datos
+* [Python 3.6](https://www.python.org/downloads/) : Lenguaje de programación para llevar a cabo el curso.
 * [Anaconda](https://www.anaconda.com/distribution/) : Compendio de paquetes (librerías) de python que permiten trabajar la manipulación y el tratamiento de los datos (incluye paquetes para el desarrollo de analítica).
-* [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html): Interfaz gráfico en donde se gestionará la la escritura de códigos y las sálidas de los mismos.
+* [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html): Interfaz gráfica en donde se gestionará la escritura de códigos y las sálidas de los mismos.
 * [Pandas](https://pandas.pydata.org/): Librerías que permite el análisis y manipulación de datos.
-* [MySQL](https://www.mysql.com/downloads/): Sistema de gestión de bases de datos relacionales.
+* [MySQL](https://www.mysql.com/downloads/): Motor de bases de datos relacionales.
 * [Sublime Text](https://www.sublimetext.com/3): Editor de Código.
 
 
