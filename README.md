@@ -56,12 +56,12 @@ En este curso exploraremos como es el proceso de construcción de sistemas de in
 
 |Fecha|Tema|Presentación|Código|
 |:----|:---|:-----------|:-----|
-|2 de Diciembre|Introducción al curso e Ingeniería de Datos| [Intro]()|[code]()|
+|2 de Diciembre|Fundamentos del Big Data| [Intro](https://www.slideshare.net/DanielJimnez56/introduccin-al-big-data-200139646)|[code](https://github.com/carlosjimenez88M/Python_Machine_Learning/blob/master/Introduction.ipynb)|
 |4 de Diciembre|Ingeniería de Datos en Python| [Ingeniería de Datos]()|[code]()|
 |6 de Diciembre|Procesamiento de Datos| [Procesamiento de Datos]()|[code]()|
 |9 de Diciembre|Automatización de procesos| [Automatización]()|[code]()|
 |11 de Diciembre|Diseño de Bases de Datos| [Bases de datos]()|[code]()|
-|13 de Diciembre|Fundamentos de Big Data| [Big Data]()|[code]()|
+|13 de Diciembre|Herramientas del Big data| [Big Data]()|[code]()|
 |15 de Diciembre|Desarrollo e instrumentalización de la datawarehouse.| [Data]()|[code]()|
 
 ## Extra
