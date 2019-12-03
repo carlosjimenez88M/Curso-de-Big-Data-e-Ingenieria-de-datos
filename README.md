@@ -67,7 +67,7 @@ En este curso exploraremos como es el proceso de construcción de sistemas de in
 ## Extra
 |Tema| Presentación|Código|
 |:---|:------------|:-----|
-|Introducción a Python|[Python]()|[Code]()|
+|Introducción a Python|[Python](https://www.slideshare.net/DanielJimnez56/clase-dos-200676504)|[Code]()|
 
 
 
