@@ -68,7 +68,7 @@ En este curso exploraremos como es el proceso de construcción de sistemas de in
 |Tema| Presentación|Código|
 |:---|:------------|:-----|
 |Introducción a Python|[Python](https://www.slideshare.net/DanielJimnez56/clase-dos-200676504)|[Code](https://github.com/carlosjimenez88M/Curso-de-Big-Data-e-Ingenieria-de-datos/blob/master/Co%CC%81digos/Intro_python.ipynb)|
-
+|Ejemplo de construcción de bases de datos|[Ejemplo](https://github.com/carlosjimenez88M/Curso-de-Big-Data-e-Ingenieria-de-datos/blob/master/Co%CC%81digos/Clase_3/super_heroes_bd.sql)|[code](https://github.com/carlosjimenez88M/Curso-de-Big-Data-e-Ingenieria-de-datos/blob/master/Co%CC%81digos/Clase_3/super_heroes_bd.sql)|
 
 
 
