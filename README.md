@@ -60,7 +60,7 @@ En este curso exploraremos como es el proceso de construcción de sistemas de in
 |4 de Diciembre|Ingeniería de Datos en Python| [Ingeniería de Datos]()|[code]()|
 |6 de Diciembre|Procesamiento de Datos| [Procesamiento de Datos]()|[code]()|
 |9 de Diciembre|Automatización de procesos| [Automatización]()|[code]()|
-|11 de Diciembre|Diseño de Bases de Datos| [Bases de datos]()|[code]()|
+|11 de Diciembre|Diseño de Bases de Datos| [Bases de datos]()|[code](https://github.com/carlosjimenez88M/Curso-de-Big-Data-e-Ingenieria-de-datos/blob/master/Co%CC%81digos/Clase_3/Fundamentos_BD.md)|
 |13 de Diciembre|Herramientas del Big data| [Big Data]()|[code]()|
 |15 de Diciembre|Desarrollo e instrumentalización de la datawarehouse.| [Data]()|[code]()|
 
